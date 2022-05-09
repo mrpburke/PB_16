@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "digikey-footprints")(type "KiCad")(uri "D:/GitHub/digikey-kicad-library/digikey-footprints.pretty")(options "")(descr ""))
+  (lib (name "Barrier_Blocks")(type "KiCad")(uri "D:/GitHub/PB_16/libraries/Barrier_Blocks/Barrier_Blocks.pretty")(options "")(descr ""))
+)
