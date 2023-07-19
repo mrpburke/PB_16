@@ -11,7 +11,7 @@ VIN LED,"D2,D4",LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,C2286
 220,R11,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C22962
 33ohm,"R10,R7,R8,R9",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C23140
 100K,R2,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C25803
-RJ45,"J7,J8",RJ45_Amphenol_54602-x08_Horizontal,C305972
+RJ45,"J7,J8",RJ45_Amphenol_54602-x08_Horizontal,C2938579
 Power In,TB1,BARRIER_BLOCK_1ROW_2POS,C306200
 ID,SW1,Nidec_Copal_SH-7010C,C457921
 SWD,J10,1x02_Horizontal_SMD,C492401
@@ -22,16 +22,4 @@ AM26C32IN,U3,SOIC-16_3.9x9.9mm_P1.27mm,C6180
 AMS1117-5.0,U2,SOT-223-3_TabPin2,C6187
 74AHCT1G125,"U4,U5,U6,U7",TSOP-5_1.65x3.05mm_P0.95mm,C7484
 B5819W,D1,D_SOD-123,C8598
-DATA4,TP4,TestPoint_Pad_D1.5mm,
-DATA3,TP3,TestPoint_Pad_D1.5mm,
-DATA2,TP2,TestPoint_Pad_D1.5mm,
-DATA1,TP1,TestPoint_Pad_D1.5mm,
-EN4,TP8,TestPoint_Pad_D1.5mm,
-EN3,TP7,TestPoint_Pad_D1.5mm,
-EN2,TP6,TestPoint_Pad_D1.5mm,
-EN1,TP5,TestPoint_Pad_D1.5mm,
 Pico,U1,RPi_Pico_SMD_TH,
-MountingHole,H3,MountingHole_3.7mm,
-MountingHole,H4,MountingHole_3.7mm,
-MountingHole,H2,MountingHole_3.7mm,
-MountingHole,H1,MountingHole_3.7mm,
